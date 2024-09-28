@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=ff0000&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile!;Hello%2C+I'm+Henri!;STar+Gaby+Developer;Loving+Programming;Thank+you+for+visiting!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile!;Hello%2C+I'm+Henri!;STar+Gaby+Developer;Loving+Programming;Thank+you+for+visiting!)](https://git.io/typing-svg)
 
 ---
 
@@ -15,7 +15,7 @@ Hello! My name is Henri, and I am passionate about development and learning new 
 #### 💻 **Programming Languages:**
 <p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=%23FFD43B"/>
+  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"/>
 </p>
 
@@ -68,10 +68,10 @@ Hello! My name is Henri, and I am passionate about development and learning new 
   <table>
     <tr>
       <td style="padding: 0; width=50%">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yHxnriiz&show_icons=true&title_color=ff0000&text_color=fff&icon_color=ff0000&bg_color=181818" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yHxnriiz&show_icons=true&title_color=8A2BE2&text_color=fff&icon_color=8A2BE2&bg_color=181818" />
       </td>
       <td style="padding: 0; width=50%">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yHxnriiz&layout=compact&title_color=ff0000&text_color=fff&bg_color=181818" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yHxnriiz&layout=compact&title_color=8A2BE2&text_color=fff&bg_color=181818" />
       </td>
     </tr>
   </table>
@@ -81,7 +81,7 @@ Hello! My name is Henri, and I am passionate about development and learning new 
 
 <div align="center">
   <br><p align="centre"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{yHxnriiz}/count.svg?color=ff0000" /></p> 
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{yHxnriiz}/count.svg?color=8A2BE2" /></p> 
   <br>
 </div>
 
@@ -91,16 +91,16 @@ Hello! My name is Henri, and I am passionate about development and learning new 
 
 ### 🔥 GitHub Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yHxnriiz&theme=midnight-purple&locale=en&date_format=n%2Fj%5B%2FY%5D&fire=ff0000&ring=ff0000&sideLabels=ff0000&currStreakLabel=ff0000&card_width=900)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yHxnriiz&theme=midnight-purple&locale=en&date_format=n%2Fj%5B%2FY%5D&fire=8A2BE2&ring=8A2BE2&sideLabels=8A2BE2&currStreakLabel=8A2BE2&card_width=900)](https://git.io/streak-stats)
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 
 ### 📈 Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yHxnriiz&bg_color=000000&color=ffffff&line=ff0000&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yHxnriiz&bg_color=000000&color=ffffff&line=8A2BE2&point=8A2BE2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 
 ---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
