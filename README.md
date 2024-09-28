@@ -97,7 +97,7 @@ Hello! My name is Henri, and I am passionate about development and learning new 
 
 ### 📈 Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yHxnriiz&bg_color=000000&color=ffffff&line=8A2BE2&point=8A2BE2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yHxnriiz&bg_color=000000&color=ffffff&line=5711c0&point=e8e8e8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 
