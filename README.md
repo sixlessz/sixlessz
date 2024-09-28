@@ -79,12 +79,6 @@ Hi, my name is Henri, I'm a back-end developer, and I currently work on projects
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 
-<div align="center">
-  <br><p align="centre"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{yHxnriiz}/count.svg?color=8A2BE2" /></p> 
-  <br>
-</div>
-
 ---
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
