@@ -68,7 +68,7 @@ Hello! My name is Henri, and I am passionate about development and learning new 
   <table>
     <tr>
       <td style="padding: 0; width=50%">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yHxnriiz&show_icons=true&title_color=8A2BE2&text_color=fff&icon_color=8A2BE2&bg_color=181818" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yHxnriiz&layout=compact&title_color=5711c0&text_color=fff&icon_color=fff&bg_color=181818" />
       </td>
       <td style="padding: 0; width=50%">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yHxnriiz&layout=compact&title_color=8A2BE2&text_color=fff&bg_color=181818" />
