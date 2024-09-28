@@ -79,10 +79,6 @@ Hi, my name is Henri, I'm a back-end developer, and I currently work on projects
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 
----
-
-<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
-
 ### 🔥 GitHub Streak
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yHxnriiz&theme=midnight-purple&locale=en&date_format=n%2Fj%5B%2FY%5D&fire=8A2BE2&ring=8A2BE2&sideLabels=8A2BE2&currStreakLabel=8A2BE2&card_width=900)](https://git.io/streak-stats)
