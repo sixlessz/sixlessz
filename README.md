@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=5711c0&center=true&vCenter=true&random=false&width=1000&lines=Welcome+to+my+profile!;Hello%2C+my+name+is+Henri!;STar+Gaby+Developer;I+love+programming;Bye!;Thank+you+for+visiting+my+profile!)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
@@ -33,6 +35,8 @@ Hello! My name is Henri, and I am a passionate developer who loves creating inno
     <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
     <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
     <img alt="Node.js" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+    <img alt="Visual Studio" src="https://img.shields.io/badge/visual%20studio-%235C2D91.svg?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   </p>
 
 ---
@@ -68,8 +72,9 @@ Hello! My name is Henri, and I am a passionate developer who loves creating inno
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 
 <div align="center">
-  <img src="https://discord.c99.nl/widget/theme-1/1046838112833253486.png" />
-</div>
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{yHxnriiz}/count.svg" /></p> 
+<br></div>
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 
