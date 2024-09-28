@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile!;Hello%2C+I'm+Henri!;STar+Gaby+Developer;Loving+Programming;Thank+you+for+visiting!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile!;Hello%2C+I'm+Henri!;Star+Gaby+Developer;Loving+Programming;Thank+you+for+visiting!)](https://git.io/typing-svg)
 
 ---
 
 ### About Me
 
-Hello! My name is Henri, and I am passionate about development and learning new technologies. I am the creator of the **STar Gaby** bot, and I work primarily with **JavaScript**, but I am expanding my knowledge in other programming languages like **Rust**. Currently, I'm also studying **SQL** and **MySQL** to further my expertise in database management.
+Hi, my name is Henri, I'm a back-end developer, and I currently work on projects using JavaScript. I've been a dev since the end of 2021, always striving to learn more. I'm the owner of a Discord bot called Star Gaby, and I enjoy listening to music. =)
 
 ---
 
