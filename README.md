@@ -14,6 +14,7 @@ Hi, my name is Henri, I'm a back-end developer, and I currently work on projects
 
 #### 💻 **Programming Languages:**
 <p align="center">
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"/>
@@ -24,7 +25,6 @@ Hi, my name is Henri, I'm a back-end developer, and I currently work on projects
   <img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=%23FA7343"/> 
   <img alt="SQL" src="https://img.shields.io/badge/sql-%23007ACC.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=%23000000"/>
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
 </p>
