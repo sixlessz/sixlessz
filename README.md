@@ -46,14 +46,14 @@ Hi, my name is Henri, I'm a back-end developer, and I currently work on projects
 ### 🌟 Projects
 
 - **Star Gaby Bot:** A powerful Discord bot with commands and features. [Invite it here!](https://discord.com/oauth2/authorize?client_id=1108562673899143168&scope=bot%20applications.commands&permissions=2146958847).
-- **Explore More Projects:** Check out my [repositories](https://github.com/yHxnriiz?tab=repositories).
+- **Explore More Projects:** Check out my [repositories](https://github.com/sixlessz?tab=repositories).
 
 ---
 
 ### 💬 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/yHxnriiz" target="_blank">
+  <a href="https://github.com/sixlessz" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -68,10 +68,10 @@ Hi, my name is Henri, I'm a back-end developer, and I currently work on projects
   <table>
     <tr>
       <td style="padding: 0; width=50%">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yHxnriiz&show_icons=true&title_color=8A2BE2&text_color=fff&icon_color=8A2BE2&bg_color=181818" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sixlessz&show_icons=true&title_color=8A2BE2&text_color=fff&icon_color=8A2BE2&bg_color=181818" />
       </td>
       <td style="padding: 0; width=50%">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yHxnriiz&layout=compact&title_color=8A2BE2&text_color=fff&bg_color=181818" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sixlessz&layout=compact&title_color=8A2BE2&text_color=fff&bg_color=181818" />
       </td>
     </tr>
   </table>
@@ -81,13 +81,13 @@ Hi, my name is Henri, I'm a back-end developer, and I currently work on projects
 
 ### 🔥 GitHub Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yHxnriiz&theme=midnight-purple&locale=en&date_format=n%2Fj%5B%2FY%5D&fire=8A2BE2&ring=8A2BE2&sideLabels=8A2BE2&currStreakLabel=8A2BE2&card_width=900)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sixlessz&theme=midnight-purple&locale=en&date_format=n%2Fj%5B%2FY%5D&fire=8A2BE2&ring=8A2BE2&sideLabels=8A2BE2&currStreakLabel=8A2BE2&card_width=900)](https://git.io/streak-stats)
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 
 ### 📈 Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yHxnriiz&bg_color=000000&color=ffffff&line=5711c0&point=e8e8e8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sixlessz&bg_color=000000&color=ffffff&line=5711c0&point=e8e8e8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 
