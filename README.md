@@ -6,7 +6,7 @@
 
 ### About Me
 
-Hi, my name is Henri, I'm a back-end developer, and I currently work on projects using JavaScript. I've been a dev since the end of 2021, always striving to learn more. I'm the owner of a Discord bot called Star Gaby, and I enjoy listening to music. =)
+Hi, my name is Henri, I'm a front developer, and I currently work on projects using JavaScript. I've been a dev since the end of 2021, always striving to learn more. I'm the owner of a Discord bot called Star Gaby, and I enjoy listening to music. =)
 
 ---
 
